@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo SOY DIEGO
 set -x
 python -m venv todo-list-aws
 source todo-list-aws/bin/activate
